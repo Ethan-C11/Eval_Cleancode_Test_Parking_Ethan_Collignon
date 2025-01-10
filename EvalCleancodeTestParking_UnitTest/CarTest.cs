@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Eval_Cleadcode_Test_Parking.Car
+namespace EvalCleancodeTestParking_UnitTest
 {
-    public class CarService
+    [TestClass]
+    public class CarTest
     {
     }
 }

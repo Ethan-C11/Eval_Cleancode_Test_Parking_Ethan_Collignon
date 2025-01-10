@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Eval_Cleadcode_Test_Parking.Parking;
+using EvalCleadcodeTestParking.Parking;
 
 namespace Parking_UnitTest
 {
@@ -13,7 +13,7 @@ namespace Parking_UnitTest
         private ParkingService _parkingService;
 
         [TestInitialize]
-        void InitializeTests()
+        void Init()
         {
 
         }

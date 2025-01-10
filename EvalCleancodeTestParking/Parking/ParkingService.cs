@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Eval_Cleadcode_Test_Parking
+namespace EvalCleadcodeTestParking.Parking
 {
-    internal class Car
+    public class ParkingService
     {
     }
 }

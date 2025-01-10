@@ -1,4 +1,4 @@
-﻿namespace Eval_Cleadcode_Test_Parking
+﻿namespace EvalCleadcodeTestParking
 {
     internal class Program
     {
